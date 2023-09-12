@@ -1,0 +1,11 @@
+Kompilator - to jaeden za najwazniejszych programow, zamieniea nam kod napisany przez programiste na 
+kod maszynowy ktory jest zrozumialy dla komputera do postaci wynikowej.
+
+
+Utowoz przezentacje na temat kompilowania programow.
+-proces debuggowania
+-co robi interpreter kodu i przykaldy
+
+minGW język ktory bedziemy uzywac.
+
+Interpreter 
